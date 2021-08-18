@@ -2,6 +2,7 @@
 <flow id="deb0039a-516d-4673-a9e0-9649bace9fcf">
   <descriptionCdata><![CDATA[deb0039a-516d-4673-a9e0-9649bace9fcf.49ee7e87-12e3-405d-8ab8-fab366267e93.prompt=Enter num2\:
 deb0039a-516d-4673-a9e0-9649bace9fcf.ed84f673-d8a2-4fea-82fc-976452cfb471.prompt=Enter num1\:
+deb0039a-516d-4673-a9e0-9649bace9fcf.f05757eb-fc94-4eef-b3bf-20a8da2c28c7.callout=perform addition
 ]]></descriptionCdata>
   <annotation></annotation>
   <name>calc</name>
@@ -70,7 +71,18 @@ deb0039a-516d-4673-a9e0-9649bace9fcf.ed84f673-d8a2-4fea-82fc-976452cfb471.prompt
     <readOnly>false</readOnly>
     <layers/>
   </iconSpec>
-  <callouts/>
+  <callouts>
+    <callout id="f05757eb-fc94-4eef-b3bf-20a8da2c28c7">
+      <text>deb0039a-516d-4673-a9e0-9649bace9fcf.f05757eb-fc94-4eef-b3bf-20a8da2c28c7.callout</text>
+      <bounds>
+        <x>151.0</x>
+        <y>147.0</y>
+        <width>120.0</width>
+        <height>58.0</height>
+      </bounds>
+      <layer>-1</layer>
+    </callout>
+  </callouts>
   <checkPointFlow>true</checkPointFlow>
   <compatibleRuntimeContext>false</compatibleRuntimeContext>
   <historyCheckPointFlow>true</historyCheckPointFlow>
